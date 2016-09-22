@@ -1,6 +1,5 @@
 /*
- * - https://github.com/ept/jxirr/blob/master/src/main/java/in/satpathy/financial/XIRR.java
- * - Gnumeric
+ * - stonarelli@gmail.com
  */
 
 public with sharing class XIRR {
